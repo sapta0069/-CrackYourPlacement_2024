@@ -7,12 +7,14 @@ This repository is created to track my progress as a part of the challenge curat
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/sapta0069/CrackYourPlacement_2024/tree/master/0098-validate-binary-search-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/sapta0069/CrackYourPlacement_2024/tree/master/0199-binary-tree-right-side-view) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/sapta0069/CrackYourPlacement_2024/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0975-range-sum-of-bst](https://github.com/sapta0069/CrackYourPlacement_2024/tree/master/0975-range-sum-of-bst) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/sapta0069/CrackYourPlacement_2024/tree/master/0098-validate-binary-search-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/sapta0069/CrackYourPlacement_2024/tree/master/0199-binary-tree-right-side-view) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/sapta0069/CrackYourPlacement_2024/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0975-range-sum-of-bst](https://github.com/sapta0069/CrackYourPlacement_2024/tree/master/0975-range-sum-of-bst) |
 ## Binary Search Tree
@@ -25,10 +27,12 @@ This repository is created to track my progress as a part of the challenge curat
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/sapta0069/CrackYourPlacement_2024/tree/master/0098-validate-binary-search-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/sapta0069/CrackYourPlacement_2024/tree/master/0199-binary-tree-right-side-view) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/sapta0069/CrackYourPlacement_2024/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0975-range-sum-of-bst](https://github.com/sapta0069/CrackYourPlacement_2024/tree/master/0975-range-sum-of-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/sapta0069/CrackYourPlacement_2024/tree/master/0199-binary-tree-right-side-view) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/sapta0069/CrackYourPlacement_2024/tree/master/0530-minimum-absolute-difference-in-bst) |
 <!---LeetCode Topics End-->
