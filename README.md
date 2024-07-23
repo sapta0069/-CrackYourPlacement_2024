@@ -35,4 +35,8 @@ This repository is created to track my progress as a part of the challenge curat
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/sapta0069/CrackYourPlacement_2024/tree/master/0199-binary-tree-right-side-view) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/sapta0069/CrackYourPlacement_2024/tree/master/0530-minimum-absolute-difference-in-bst) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/sapta0069/CrackYourPlacement_2024/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
